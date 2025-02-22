@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1717081121 source:c:\users\dell\documents\programmation_structuree\racing game\main.c
+	<stdio.h>
+	<raylib.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1717107792 source:f:\racing game\main.c
+	<stdio.h>
+	<raylib.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+
